@@ -17,7 +17,7 @@ This is a personal portfolio website built using React.js. It showcases my skill
 
 <br/>
 
-<b>Technologies Used</b>
+## ⚡ languages and Tools
 - React.js
 - HTML5
 - CSS3
