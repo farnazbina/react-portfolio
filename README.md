@@ -4,7 +4,7 @@
 This is a personal portfolio website built using React.js. It showcases my skills, projects, and experience as a frontend developer. It includes sections for my bio, skills, projects, and contact information.
 
 <center>
-<img src="[https://i.imgur.com/ZWPO61A.jpeg](https://www.canva.com/design/DAGQ0AEelu8/kfN8gl7diGARDSNkkgIOnA/edit?utm_content=DAGQ0AEelu8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" alt="Reactfolio" />
+<img src="https://www.canva.com/design/DAGQ0AEelu8/kfN8gl7diGARDSNkkgIOnA/edit?utm_content=DAGQ0AEelu8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Reactfolio" />
 </center>
 
 <br />
