@@ -4,7 +4,7 @@
 This is a personal portfolio website built using React.js. It showcases my skills, projects, and experience as a frontend developer. It includes sections for my bio, skills, projects, and contact information.
 
 <center>
-<img src="https://imgur.com/gallery/portfolio-vMyPez4" alt="React Portfolio" />
+<img src="/public/Portfolio.jpg" alt="React Portfolio" />
 </center>
 
 <br />
