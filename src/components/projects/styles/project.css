@@ -1,0 +1,77 @@
+@import "../../../data/styles.css";
+
+.project {
+	mix-blend-mode: normal;
+	border-radius: 20px;
+	opacity: 0.9;
+	height: 100%;
+	border: 1px solid var(--quaternary-color);
+	border-radius: 8px;
+}
+
+.project a {
+	text-decoration: none;
+}
+
+.project:hover {
+	background: #00296b09;
+	opacity: 1;
+	transition: background-color 0.3s ease-in-out;
+	/* background-image: url('../../../../public/bit24.jpg');
+	background-size: cover;
+	background-position: center; */
+}
+
+.project:hover .project-link {
+	color: var(--link-color);
+	transition: color 0.3s ease-in-out;
+}
+
+.project-container {
+	padding: 30px 22px 22px;
+}
+
+.project-logo {
+	width: 30px;
+}
+
+.project-logo img {
+	width: 100%;
+}
+
+.project-title {
+	font-family: var(--secondary-font);
+	color: var(--link-color);
+	font-size: 16px;
+	margin-bottom: 1em;
+	font-weight: 700;
+	height: 19px;
+	max-height: 19px;
+}
+
+.project-description {
+	font-size: 16px;
+	font-weight: 500;
+	color: var(--secondary-color);
+	height: 96px;
+	max-height: 96px;
+}
+
+.project-link {
+	display: flex;
+	align-items: center;
+	color: var(--secondary-color);
+	font-size: 12px;
+	padding-top: 20px;
+}
+
+.project-link-icon {
+	padding-left: 5px;
+	font-size: 13px;
+}
+
+.project-link-text {
+	margin: 0 10px;
+	font-weight: 700;
+	font-size: 14px;
+}
